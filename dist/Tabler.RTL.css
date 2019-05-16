@@ -19391,6 +19391,9 @@ svg {
   content: "\e9f4";
 }
 
+.fe-id-card:before {
+  content: "\f2c2"; }
+
 .fe-video:before {
   content: "\e9f5";
 }

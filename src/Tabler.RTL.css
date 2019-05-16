@@ -19403,6 +19403,9 @@ svg {
   content: "\e9f7";
 }
 
+.fe-id-card:before {
+  content: "\f2c2"; }
+
 .fe-volume:before {
   content: "\e9f8";
 }
